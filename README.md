@@ -26,7 +26,7 @@ Terms and Conditions: Checkbox to accept terms and conditions (required).
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/registration-form.git
+https://github.com/zahid2499/Registration-Form.git
 ```
 Navigate to the project directory:
 ```sh
